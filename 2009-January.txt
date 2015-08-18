@@ -1,0 +1,54 @@
+From vikramgkaushik at gmail.com  Mon Jan 12 11:16:18 2009
+From: vikramgkaushik at gmail.com (Vikram Gaur)
+Date: Mon, 12 Jan 2009 15:46:18 +0530
+Subject: [Lucane-devel] Maintianing the Distribution
+Message-ID: <92b4b9060901120216m4cdb7471uaea8d649aa42c849@mail.gmail.com>
+
+Hi All,
+
+We are open source /linux based company active in implementation, training,
+customization.  We can maintain the project.
+
+Regards,
+
+Vikram
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/lucane-devel/attachments/20090112/45d11aa9/attachment.html>
+
+From vfiack at gmail.com  Mon Jan 12 21:17:15 2009
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Mon, 12 Jan 2009 21:17:15 +0100
+Subject: [Lucane-devel] Maintianing the Distribution
+In-Reply-To: <92b4b9060901120216m4cdb7471uaea8d649aa42c849@mail.gmail.com>
+References: <92b4b9060901120216m4cdb7471uaea8d649aa42c849@mail.gmail.com>
+Message-ID: <b8c61c210901121217q3de735vc394abc051e1427f@mail.gmail.com>
+
+Hello,
+
+> We are open source /linux based company active in implementation, training,
+> customization.  We can maintain the project.
+
+Several people already offered to maintain lucane (three, if I
+remember correctly). After giving them the various admin rights, they
+all vanished, so this time, I'll ask before.
+
+What do you intend to do exactly ? Bugfixes only, or do you already
+know how you can improve the codebase and the website ?
+Do you already have some clients interested in lucane ?
+
+BTW, i made a few improvements recently, and migrated the source
+repository to mercurial :
+http://freehg.org/u/vfiack/lucane/
+
+The codebase was migrated to maven2, plugins & services classes have
+specific annotations so that we don't have to set these metadata in
+each translation file, the server is manageable with JMX, and a few
+small changes.
+
+If you have more ideas, we can probably work together.
+
+Have a nice day,
+Vincent.
+
+

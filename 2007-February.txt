@@ -1,0 +1,73 @@
+From james at nontrivial.org  Mon Feb 19 17:29:56 2007
+From: james at nontrivial.org (James D Bearden)
+Date: Mon, 19 Feb 2007 10:29:56 -0600
+Subject: [Lucane-devel] Maintainer Wanted?
+Message-ID: <1171902597.15854.1.camel@wonko.dvns.com>
+
+Hello,
+
+Reading through the archives I saw that Ari Sitnik offered to take over
+maintainer duties for Lucane. Did that ever happen? If not I would like
+to would like to volunteer.
+
+James
+http://james.nontrivial.org
+
+
+
+From vfiack at gmail.com  Mon Feb 19 18:06:09 2007
+From: vfiack at gmail.com (Vincent Fiack)
+Date: Mon, 19 Feb 2007 18:06:09 +0100
+Subject: [Lucane-devel] Maintainer Wanted?
+In-Reply-To: <1171902597.15854.1.camel@wonko.dvns.com>
+References: <1171902597.15854.1.camel@wonko.dvns.com>
+Message-ID: <b8c61c210702190906t10c38d80o78a8e8bde690924a@mail.gmail.com>
+
+> Reading through the archives I saw that Ari Sitnik offered to take over
+> maintainer duties for Lucane. Did that ever happen? If not I would like
+> to would like to volunteer.
+
+Nope, he never replied back, so lucane is still orphaned. If you tell
+me your berlios account (and wanted accout for svn), i'll give you
+admin rights.
+
+Thanks,
+Vincent.
+
+
+From asitnik at yahoo.com  Tue Feb 20 20:26:57 2007
+From: asitnik at yahoo.com (Ari Sitnik)
+Date: Tue, 20 Feb 2007 11:26:57 -0800 (PST)
+Subject: [Lucane-devel] Fwd: Lucane-devel Digest, Vol 4, Issue 1
+Message-ID: <775241.98612.qm@web54506.mail.yahoo.com>
+
+I did offer to take the project, but fortunately for
+me, and unfortunately for the project, I got a
+full-time position since then, and cannot do it.
+
+Anyone with the capability and time, please feel free
+to take on this project that has so much great
+potential and already is so useful!
+
+Thanks,
+
+Ari.
+
+Note: forwarded message attached.
+
+
+
+
+ 
+____________________________________________________________________________________
+Need Mail bonding?
+Go to the Yahoo! Mail Q&A for great tips from Yahoo! Answers users.
+http://answers.yahoo.com/dir/?link=list&sid=396546091
+-------------- next part --------------
+An embedded message was scrubbed...
+From: lucane-devel-request at lists.berlios.de
+Subject: Lucane-devel Digest, Vol 4, Issue 1
+Date: Tue, 20 Feb 2007 12:01:07 +0100
+Size: 3703
+URL: <https://lists.berlios.de/pipermail/lucane-devel/attachments/20070220/05bb2284/attachment.mht>
+
